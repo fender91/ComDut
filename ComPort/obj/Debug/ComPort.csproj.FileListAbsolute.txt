@@ -1,0 +1,30 @@
+C:\Users\FENDER91\Documents\Visual Studio 2017\Projects\ComPort\ComPort\bin\Debug\ComPort.exe.config
+C:\Users\FENDER91\Documents\Visual Studio 2017\Projects\ComPort\ComPort\bin\Debug\ComPort.exe
+C:\Users\FENDER91\Documents\Visual Studio 2017\Projects\ComPort\ComPort\bin\Debug\ComPort.pdb
+C:\Users\FENDER91\Documents\Visual Studio 2017\Projects\ComPort\ComPort\obj\Debug\ComPort.Form1.resources
+C:\Users\FENDER91\Documents\Visual Studio 2017\Projects\ComPort\ComPort\obj\Debug\ComPort.Properties.Resources.resources
+C:\Users\FENDER91\Documents\Visual Studio 2017\Projects\ComPort\ComPort\obj\Debug\ComPort.csproj.GenerateResource.cache
+C:\Users\FENDER91\Documents\Visual Studio 2017\Projects\ComPort\ComPort\obj\Debug\ComPort.csproj.CoreCompileInputs.cache
+C:\Users\FENDER91\Documents\Visual Studio 2017\Projects\ComPort\ComPort\obj\Debug\ComPort.exe
+C:\Users\FENDER91\Documents\Visual Studio 2017\Projects\ComPort\ComPort\obj\Debug\ComPort.pdb
+C:\Users\FENDER91\Documents\Visual Studio 2017\Projects\ComPort\ComPort\obj\Debug\ComPort.csprojAssemblyReference.cache
+D:\CS Project\ComPort\ComPort\bin\Debug\ComPort.exe.config
+D:\CS Project\ComPort\ComPort\bin\Debug\ComPort.exe
+D:\CS Project\ComPort\ComPort\bin\Debug\ComPort.pdb
+D:\CS Project\ComPort\ComPort\obj\Debug\ComPort.csprojAssemblyReference.cache
+D:\CS Project\ComPort\ComPort\obj\Debug\ComPort.Form1.resources
+D:\CS Project\ComPort\ComPort\obj\Debug\ComPort.Properties.Resources.resources
+D:\CS Project\ComPort\ComPort\obj\Debug\ComPort.csproj.GenerateResource.cache
+D:\CS Project\ComPort\ComPort\obj\Debug\ComPort.csproj.CoreCompileInputs.cache
+D:\CS Project\ComPort\ComPort\obj\Debug\ComPort.exe
+D:\CS Project\ComPort\ComPort\obj\Debug\ComPort.pdb
+D:\CS Project\ComPort 0.5\ComPort\bin\Debug\ComPort.exe.config
+D:\CS Project\ComPort 0.5\ComPort\bin\Debug\ComPort.exe
+D:\CS Project\ComPort 0.5\ComPort\bin\Debug\ComPort.pdb
+D:\CS Project\ComPort 0.5\ComPort\obj\Debug\ComPort.csprojAssemblyReference.cache
+D:\CS Project\ComPort 0.5\ComPort\obj\Debug\ComPort.Form1.resources
+D:\CS Project\ComPort 0.5\ComPort\obj\Debug\ComPort.Properties.Resources.resources
+D:\CS Project\ComPort 0.5\ComPort\obj\Debug\ComPort.csproj.GenerateResource.cache
+D:\CS Project\ComPort 0.5\ComPort\obj\Debug\ComPort.csproj.CoreCompileInputs.cache
+D:\CS Project\ComPort 0.5\ComPort\obj\Debug\ComPort.exe
+D:\CS Project\ComPort 0.5\ComPort\obj\Debug\ComPort.pdb
